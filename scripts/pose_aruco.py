@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from aruco_msgs.msg import TransformStampedCertainty
+from pose_msgs.msg import TransformStampedCertainty
 import rospy
 from std_msgs.msg import Float64
 from tf2_msgs.msg import TFMessage
